@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Ultralogger is a compact and lightweight data logger intended for use on both low and high power rockets. The Ultralogger is capable of measuring altitudes through 100,000 feet (30,500 meters), acceleration up to 200g, and temperature between -40 and 185 Farenheit (-40 to 85 Celsius). 
+The Ultralogger is a compact and lightweight data logger, small enough to fit comfortably in a 17mm body tube, for use on both low and high power rockets. The Ultralogger is capable of measuring altitudes through 100,000 feet (30,500 meters), acceleration up to 200g, and temperature between -40 and 185 Farenheit (-40 to 85 Celsius). 
 
 Using the Micro USB port, the integrated battery can be charged, settings can be configured, and data can be downloaded. 
 
