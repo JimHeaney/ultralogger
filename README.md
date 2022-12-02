@@ -8,7 +8,7 @@ Using the Micro USB port, the integrated battery can be charged, settings can be
 
 USB-Configurable Settings Include:
 * Select between metric and Imperail units
-* Adjustable logging rate, up to 20Hz
+* Adjustable logging rate, up to 20Hz (future software updates can push this up to 50Hz)
 * Set altitude mode to absolute (ASL) or relative (AGL of launch pad, automatically acquired)
 * Variable liftoff detection, using customizable acceleration and/or altitude thresholds. Both can also be disabled to auto-start recording on powerup.
 
