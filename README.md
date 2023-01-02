@@ -28,7 +28,7 @@ For more information on the Ultralogger, please see the [wiki on GitHub](https:/
 There are no stable, public releases of the Ultralogger at this time. 
 
 ## Current State
-Version 1.1 of the Ultralogger is currently undergoing flight testing and verification.
+Version 1.1 of the Ultralogger is currently undergoing flight testing and verification. Development has begun on incremental iimprovement Version 1.2.
 
 ## Featured In...
 
