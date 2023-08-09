@@ -1,3 +1,5 @@
+//Based on Adafruit's ADXL calibration code
+
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
 #include <Adafruit_ADXL375.h>
